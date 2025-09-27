@@ -1,19 +1,20 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/ollyee-en.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Friday: 9AM – 7PM "
 ---
+Founded in 2023, OLLYEE was born from a simple yet powerful idea: personal care should be a joyful, effortless ritual, not a chore. From the very beginning, our founders envisioned a brand that would merge cutting-edge technology with refined elegance, creating appliances that do more than function—they elevate everyday moments.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+At OLLYEE, we believe beauty is timeless. Every device we design is crafted to bring comfort, confidence, and sophistication into daily life. Whether it’s styling your hair, caring for your skin, or enjoying a moment of relaxation, our products are created to make you feel empowered and radiant—without effort.
+
+
+
+Our slogan, “Only Love, Life, and Your Eternal Elegance,” captures the heart of our mission. It’s a promise to honor self-care as an expression of love, to enrich life with intelligent, thoughtful solutions, and to inspire confidence that carries through every stage of life.
+
+
+
+Every curve, every function, every detail in an OLLYEE product tells a story of care and innovation. We don’t just create appliances; we create companions that accompany you through your daily rituals, helping you look and feel your best—today, tomorrow, and for years to come.
